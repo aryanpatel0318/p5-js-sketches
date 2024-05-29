@@ -2,10 +2,6 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 }
 
-function draw() {
-
-}
-
 function keyPressed() {
   if (keyCode === LEFT_ARROW) {
     fill('blue');
